@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "264324682479",
+    "project_id": "email-authentication-app-93b00",
+    "storage_bucket": "email-authentication-app-93b00.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264324682479:android:8c78b27da75af81a4ec11a",
+        "android_client_info": {
+          "package_name": "com.miner.email_authentication_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "264324682479-3t56ftaq2hd5ulv03tue7l4eau7asb77.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.miner.email_authentication_app",
+            "certificate_hash": "be5d572ce67c7a8dfb2fbfabebc0a19e7ec6a0a9"
+          }
+        },
+        {
+          "client_id": "264324682479-oubr83b2v9kujov13bkbajsukfcc2jj8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi7Y0RYo8lXb7W9FtLmXJJhwSrP6FA9Z0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "264324682479-oubr83b2v9kujov13bkbajsukfcc2jj8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
